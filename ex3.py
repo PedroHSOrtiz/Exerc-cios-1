@@ -19,10 +19,9 @@ numero1 = float(input("Qual o primeiro número?"))
 
 numero2 = float(input("Qual o segundo número?"))
 
-# Processamento: cálculo da soma
+# Processamento:
 
 soma = numero1 + numero2
-
 
 # Saída de dados
 

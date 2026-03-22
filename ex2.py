@@ -21,7 +21,7 @@ numero1 = int(2)
 
 numero2 = int(3)
 
-# Processamento: cálculo da soma
+# Processamento:
 
 soma = numero1 + numero2
 
